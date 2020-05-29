@@ -10,7 +10,7 @@ public class Post {
     private String content;
     private String picture;
     private Bitmap pic;
-    //comment
+    
     public Post(String username, String displayName, String profilePic, String content, String picture, Bitmap pic){
         this.username = username;
         this.displayName = displayName;
