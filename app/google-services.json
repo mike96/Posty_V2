@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299313069372",
+    "firebase_url": "https://posty-9d5ac.firebaseio.com",
+    "project_id": "posty-9d5ac",
+    "storage_bucket": "posty-9d5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299313069372:android:86d0876ea7476519863239",
+        "android_client_info": {
+          "package_name": "com.example.posty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299313069372-i9rmiootcbedo45rai3tqbgi84jkm9e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rn1xk8Esb6cmPhs-WRK550csfOJRNwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299313069372-i9rmiootcbedo45rai3tqbgi84jkm9e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
